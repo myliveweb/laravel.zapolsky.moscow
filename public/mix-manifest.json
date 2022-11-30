@@ -48,5 +48,7 @@
     "/assets/admin/img/user5-128x128.jpg": "/assets/admin/img/user5-128x128.jpg",
     "/assets/admin/img/user6-128x128.jpg": "/assets/admin/img/user6-128x128.jpg",
     "/assets/admin/img/user7-128x128.jpg": "/assets/admin/img/user7-128x128.jpg",
-    "/assets/admin/img/user8-128x128.jpg": "/assets/admin/img/user8-128x128.jpg"
+    "/assets/admin/img/user8-128x128.jpg": "/assets/admin/img/user8-128x128.jpg",
+    "/assets/admin/css/adminlte.min.css.map": "/assets/admin/css/adminlte.min.css.map",
+    "/assets/admin/js/adminlte.min.js.map": "/assets/admin/js/adminlte.min.js.map"
 }
