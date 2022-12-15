@@ -23,6 +23,7 @@ Route::get('/', function () {
 
 Route::prefix('admin')->group(function () {
     Route::get('/', [MainController::class, 'index'])->name('admin.index');
+    Route::get('/python', [MainController::class, 'python'])->name('admin.python');
     Route::resource('/sellers', SellerController::class);
     Route::resource('/brands', BrandController::class);
 });
